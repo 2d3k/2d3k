@@ -13,7 +13,7 @@
 
 ### ✨Contact
 [![Blog](https://img.shields.io/badge/Blog-FCC624?style=for-the-badge&logo=#FF5722&logoColor=white&link=https://2d-3.tistory.com/)](https://2d-3.tistory.com/)
-[![Resume](https://img.shields.io/badge/Resume-339AF0?style=for-the-badge&logo=기술스택아이콘&logoColor=white&link=https://2d3k.github.io/)](https://2d3k.github.io/)
+[![Resume](https://img.shields.io/badge/Resume-339AF0?style=for-the-badge&logo=기술스택아이콘&logoColor=white&link=https://band-viburnum-3aa.notion.site/3602097c3bb94f6ea2b908e80b2f0eea)](https://band-viburnum-3aa.notion.site/3602097c3bb94f6ea2b908e80b2f0eea)
 
 ---
 
