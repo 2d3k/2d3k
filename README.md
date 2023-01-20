@@ -1,13 +1,29 @@
+## ✨ Work
+
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
+![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+### ✨Contact
+[![Blog](https://img.shields.io/badge/Blog-FCC624?style=for-the-badge&logo=#FF5722&logoColor=white&link=https://2d-3.tistory.com/)](https://2d-3.tistory.com/)
+[![Resume](https://img.shields.io/badge/Resume-339AF0?style=for-the-badge&logo=기술스택아이콘&logoColor=white&link=https://2d3k.github.io/)](https://2d3k.github.io/)
+
+---
+
 ### ✨Git
-![2d3k's GitHub stats](https://github-readme-stats.vercel.app/api?username=2d3k&show_icons=true&theme=cobalt&hide=prs,issues,contribs&count_private=true)
+  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=2d3k&show_icons=true&theme=cobalt&count_private=true&hide=stars" alt="2d3k" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2d3k&theme=cobalt&layout=compact" alt="2d3k" />
+</a>
 
-### 공통
-
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-### IDE
-<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-
-### Back-end
-
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white"/>
+---
