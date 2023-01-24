@@ -1,10 +1,11 @@
 # 💻 백엔드 주니어 개발자 김은진입니다
-<br>
+
+## ✨Contacts
 📧Email: as13337@gmail.com <br>
-✍️Blog: [Tistory](https://2d-3.tistory.com/) <br>
+✍️Blog: [Tistory](https://2d-3.tistory.com/)
+<br><br>
 
 ## ✨Stacks
-<br><br>
 ![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white)
