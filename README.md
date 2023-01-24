@@ -2,7 +2,6 @@
 <br><br>
 📧Email: as13337@gmail.com <br>
 ✍️Blog: [Tistory](https://2d-3.tistory.com/) <br>
-📄Portfolio: [Notion](https://www.notion.so/3602097c3bb94f6ea2b908e80b2f0eea) <br><br>
 
 ## ✨Stacks
 <br><br>
