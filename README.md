@@ -1,7 +1,7 @@
-# 💻 백엔드 주니어 개발자 김은진입니다.
+# 💻 백엔드 주니어 개발자 김은진입니다
 <br><br>
 📧Email: as13337@gmail.com <br>
-✍️Blog: https://2d-3.tistory.com/ <br>
+✍️Blog: [Tistory](https://2d-3.tistory.com/) <br>
 📄Portfolio: [Notion](https://www.notion.so/3602097c3bb94f6ea2b908e80b2f0eea) <br><br>
 
 ## ✨Stacks
