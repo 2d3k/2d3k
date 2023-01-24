@@ -1,13 +1,11 @@
 # 💻 백엔드 주니어 개발자 김은진입니다.
-<br>
+<br><br>
 📧Email: as13337@gmail.com <br>
-✍️Blog: https://2d-3.tistory.com/ <br>   
-📄Portfolio: [Notion](https://www.notion.so/3602097c3bb94f6ea2b908e80b2f0eea)
-
----
+✍️Blog: https://2d-3.tistory.com/ <br>
+📄Portfolio: [Notion](https://www.notion.so/3602097c3bb94f6ea2b908e80b2f0eea) <br><br>
 
 ## ✨Stacks
-
+<br><br>
 ![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white)
@@ -22,9 +20,8 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
 <br>
 <br>
----
 
-### ✨Git
+## ✨Git
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=2d3k&show_icons=true&theme=cobalt&count_private=true&hide=stars" alt="2d3k" />
