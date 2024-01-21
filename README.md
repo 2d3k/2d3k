@@ -1,4 +1,4 @@
-# 💻 백엔드 개발자 김은진입니다
+# 💻 백엔드 개발자입니다
 
 ## ✨Contacts
 📧Email: as13337@gmail.com <br>
