@@ -1,10 +1,5 @@
 # 💻 백엔드 개발자입니다
 
-## ✨Contacts
-📧Email: as13337@gmail.com <br>
-✍️Blog: [Tistory](https://2d-3.tistory.com/)
-<br><br>
-
 ## ✨Stacks
 ![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white)
